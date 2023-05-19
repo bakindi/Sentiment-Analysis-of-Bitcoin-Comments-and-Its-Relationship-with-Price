@@ -1,2 +1,2 @@
 # Sentiment-Analysis-of-Bitcoin-Comments-and-Its-Relationship-with-Price
-In this study, I examined the relationship between the results obtained from sentiment analysis of comments and posts about Bitcoin and the price of Bitcoin. Additionally, I will develop a model for sentiment analysis.
+In this study, I examined the relationship between the results obtained from sentiment analysis of comments and posts about Bitcoin and the price of Bitcoin, you can find more detailed explanations of my results in my medium article(https://medium.com/@battalbakindi/sentiment-analysis-of-bitcoin-comments-and-its-relationship-with-price-246e11eaf19b). Additionally, I developed a model for sentiment analysis.
